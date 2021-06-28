@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appli de Test</string>
+    <string name="tab_text_1">Actus</string>
+    <string name="tab_text_2">Plus d\'infos</string>
+    <string name="tab_text_3">Inscription</string>
+    <string name="textfield_name">Nom</string>
+    <string name="textfield_email">Adresse e-mail</string>
+    <string name="textfield_phone">Téléphone</string>
+    <string name="button_add_picture">Image</string>
+    <string name="button_signmeup">M\'inscrire !</string>
+    <string name="postedwhen_xdays">Il y a %1$d jours</string>
+    <string name="toast_check_info">Assurez-vous que les informations fournies sont correctes.</string>
+    <string name="button_switch">Changer d\'URL</string>
+</resources>

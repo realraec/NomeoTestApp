@@ -1,0 +1,2 @@
+rootProject.name = "NomeoTestTechnique"
+include ':app'

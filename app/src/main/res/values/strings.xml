@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="tab_text_1">News</string>
+    <string name="tab_text_2">More info</string>
+    <string name="tab_text_3">Sign up</string>
+    <string name="textfield_name">Name</string>
+    <string name="textfield_email">Email address</string>
+    <string name="textfield_phone">Phone number</string>
+    <string name="button_add_picture">Picture</string>
+    <string name="button_signmeup">Sign me up!</string>
+    <string name="postedwhen_xdays">%1$d days ago</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="button_remove_picture" translatable="false">X</string>
+    <string name="toast_check_info">Make sure the information you provided are correct.</string>
+    <string name="button_switch">Switch URLs</string>
+</resources>
